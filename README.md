@@ -62,7 +62,7 @@ endmodule
 ### HALF ADDER:
 ![OUTPUT](halfgate.png)
 ### TIMING DIAGRAM:
-![output](htiming.png)
+![output](n1.jpeg)
 ### TRUTH TABLE:
 ![output](haddtable.png)
 ### OUTPUT:
@@ -70,7 +70,7 @@ endmodule
 ### FULL ADDER:
 ![OUTPUT](fullgate.png)
 ### TIMING DIAGRAM:
-![output](ftiming.png)
+![output](n2.jpeg)
 ### TRUTH TABLE:
 ![output](faddtable.png)
 ### OUTPUT:
